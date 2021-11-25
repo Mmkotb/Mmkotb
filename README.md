@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mmkotb
+- 👋 Hi, I’m mahmoud
 - 👀 I’m interested in ...Data science machine learning 
 - 🌱 I’m currently learning ... Digital transformation 
 - 💞️ I’m looking to collaborate on ...building model on extracting data from differnt systems.
